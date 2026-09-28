@@ -1,0 +1,18 @@
+site_name: Guide des Carburateurs Peugeot 205
+site_description: Répertoire des carburateurs, repères, gicleurs et éclatés de 205.
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: red
+    accent: red
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Moteurs X (1983-1987):
+      - Solex 34 PBISA 12 (Repère 409): moteurs-x/solex-34-pbisa-409.md
+  - Moteurs TU (1987-1993):
+      - Solex 32-34 Z2 (Repère 528): moteurs-tu/solex-32-34-z2-528.md
