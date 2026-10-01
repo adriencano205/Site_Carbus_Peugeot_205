@@ -22,7 +22,7 @@ Attention, le filtre plongé dans le réservoir à 2 robinet sur cette version (
 | Élément | 1er Corps | 2ème Corps |
 | :--- | :--- | :--- |
 | Buse (Venturi) | 24 | 25 |
-| Gicleur principal | 120 | 12 |
+| Gicleur principal | 120 | 122 |
 | Ajutage d'automaticité | 6Z 175 | ZC 180 |
 | Gicleur de ralenti | 40 |   |
 | Enrichisseur Pneumatique | 45 |   |
