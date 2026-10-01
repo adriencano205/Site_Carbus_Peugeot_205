@@ -1,4 +1,4 @@
-# Solex 32/34 Z2 - Repère 528 - TU3F2 - Peugeot
+# Solex 32/34 Z2 - Repère 528 - Moteur TU3F2 - Peugeot
 
 Ce carburateur, double corps inversé, à équipé les Citroën ZX (version 1.4L), les Peugeot 309 (avec le moteur TU3F2/K repère K2D) ainsi que les Peugeot 205 GR/SR/XR en version 1.4L (TU3F2/K) de l'année 1992. Ce moteur remplace le TU3A de 70 ch équipé d'un carbu simple corps. C'est un bloc fonte (d'où le F dans le nom) et équipé d'un carbu double corps faisant grimper la puissance de 70 à 75ch (voir fiche technique des moteurs).
 
