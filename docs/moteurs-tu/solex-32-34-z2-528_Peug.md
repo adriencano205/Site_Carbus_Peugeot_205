@@ -33,7 +33,40 @@ Attention, le filtre plongé dans le réservoir à 2 robinet sur cette version (
 | régime de ralenti | 750 +- 50 |
 | % de CO | 1.5 +- 0.5 |
 
+## Schéma du carburateur
+
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b>Légende gauche</b><br><br>
+      - : filtre essence<br>
+      - : etouffoir<br>
+      - : Pointeau<br>
+      - : Axe du flotteur<br>
+      - : Tube d’émulsion<br>
+      - : Gicleurs<br>
+      - : Electrovanne clim<br>
+      - : pochette de joint<br>
+      - : vis de papillon       
+    </td>
+
+   <td width="50%" align="center" valign="top">
+      <img src="../images/solex-32-34-z2-409-eclate.png"
+           alt="Schéma éclaté Solex 32/34 Z2 PSA 409"
+           width="550">
+    </td>
+
+   <td width="25%" valign="top">
+      <b>Légende droite</b><br><br>
+      - : Vis de starter<br>
+      - : Starter manuel<br>
+      - : Gicleur de ralenti<br>
+      - : Vis de commande de gaz<br>
+      - : Vis de richesse avec joint<br>
+     - : Vis de ralenti<br>
+     - : Ensemble de la pompe de reprise
+    </td>
+  </tr>
+</table>
 
 
-## Pièces de réfection
-* [Commander la pochette de joints complète sur eBay](https://lien-affilie.com)
