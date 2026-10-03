@@ -69,4 +69,28 @@ Attention, le filtre plongé dans le réservoir à 2 robinet sur cette version (
   </tr>
 </table>
 
+## Réglages
+
+Pour régler un carburateur, il faut déjà avoir un allumage réglé (voir les spécifications), et qu'il n'y ai pas de prise d'air, sinon ce n'est pas la peine de tenter de le régler, ça ne marchera pas.
+Une fois que ces 2 étapes sont faites, on peut s'attaquer au carburateur : 
+1) la vis de richesse
+2) la vis de ralenti
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="../images/solex-32-34-z2-vis-richesse.jpg" alt="photo carbu ouvert" width="100%"><br>
+      <b>Emplacement de la vis de richesse (au fond du trou)</b>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="../images/solex-32-34-z2-vis-ralenti.jpg" alt="photo carbu ouvert" width="100%"><br>
+      <b>Emplacement de la vis de ralenti</b>
+    </td>
+  </tr>
+</table>
+   
+En premier lieu, la vis de richesse n'est effective que lors du ralenti de la voiture, dès que on accélère, le carburateur tel que ce solex 32/34 Z2 va passer sur le circuit principal du 1er corps.
+Dans l'idéal, il faut visser à fond (sans trop forcer) puis dévisser de 2 tours environ, ça c'est le réglage de base que on a tous entendu quelques part.
+Je peux vous donner en conseil également c'est d'être très attentif à l'oreille, car en tournant cette vis de richesse, le régime moteur va soit monter soit chuter. L'idéal c'est de se mettre à l'endroit ou le régime est le plus haut.
+Une fois cette étape terminer, on vient ré ajuster la vis de richesse pour avoir un ralenti vers 750-800 tours/minutes.
 
